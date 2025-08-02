@@ -1,0 +1,6 @@
+pyaudio
+numpy
+aubio
+librosa
+scipy
+soundfile
